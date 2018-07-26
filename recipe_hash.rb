@@ -19,7 +19,6 @@
 
 def recipe_ingredients(perfect_10_recipe)
   perfect_10_recipe
-
 end
 
 #3:
