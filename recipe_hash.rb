@@ -46,8 +46,7 @@ def ingredients(perfect_10_recipe)
   #you'll need to include your whole hash in this method
   #code your solution here
 
-  perfect_10_recipe.each_key { |key| }
-  puts key
+  perfect_10_recipe.each_key { |key| puts key }
 end
 
 #6:
