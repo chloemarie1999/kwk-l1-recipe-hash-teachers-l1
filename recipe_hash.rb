@@ -47,7 +47,7 @@ def ingredients(perfect_10_recipe)
   #code your solution here
 
   perfect_10_recipe.each_key { |key| }
-  puts "#{key}"
+  puts key
 end
 
 #6:
